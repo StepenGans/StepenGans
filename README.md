@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @StepenGans
-- 👀 I’m interested in Coding, Proggraming & Editing
-- 🌱 I’m currently learning Nodejs
+In the past, I was a whatsapp bot developer but now I'm not working on that project anymore
 
 <!---
 StepenGans/StepenGans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
