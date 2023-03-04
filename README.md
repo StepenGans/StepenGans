@@ -14,10 +14,10 @@ ___
     <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 <a href="https://open.spotify.com/artist/16DT477pJEBjP3xNqL2hq7" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=071A2C" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/spotify-%2312100E.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=071A2C" alt="Spotify"/>
   </a>
 <a href="https://soundcloud.com/steventz" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=soundcloud&logoColor=white&color=071A2C" alt="Soundcloud"/>
+    <img src="https://img.shields.io/badge/soundcloud-%2312100E.svg?&style=for-the-badge&logo=soundcloud&logoColor=white&color=071A2C" alt="Soundcloud"/>
   </a>
   
 ___
