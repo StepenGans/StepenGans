@@ -31,10 +31,4 @@ ___
 ___
 
 
-<p>Github Statistics 💤</p>
-<img src="https://github-profile-trophy.vercel.app/?username=StepenGans&theme=onedark" />
-<img src="https://github.com/StepenGans/github-stats/blob/master/generated/overview.svg" />
-<img src="https://github.com/StepenGans/github-stats/blob/master/generated/languages.svg" />
-
-
 ___
