@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Welcome+to+my+profile" />
+</p>
+
 <img src="https://komarev.com/ghpvc/?username=StepenGans&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="StevenTs" />
 
 <p align="center">
@@ -24,4 +28,13 @@ ___
     <img src="https://img.shields.io/badge/soundcloud-%2312100E.svg?&style=for-the-badge&logo=soundcloud&logoColor=white&color=071A2C" alt="Soundcloud"/>
   </a>
   
+___
+
+
+<p>Github Statistics 💤</p>
+<img src="https://github-profile-trophy.vercel.app/?username=StepenGans&theme=onedark" />
+<img src="https://github.com/StepenGans/github-stats/blob/master/generated/overview.svg" />
+<img src="https://github.com/StepenGans/github-stats/blob/master/generated/languages.svg" />
+
+
 ___
